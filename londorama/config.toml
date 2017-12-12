@@ -1,0 +1,4 @@
+baseURL = "https://londorama.co.uk"
+languageCode = "en-us"
+title = "Londorama"
+theme = "anybodyhome"
